@@ -2,8 +2,8 @@
 body{
 background-color:lightblue;
 {
-h1{
-color:black; text-align:center
+h3{
+color:blue; text-align:center
 font-style:times new roman;
 }
 p{
