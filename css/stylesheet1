@@ -1,1 +1,11 @@
 
+body{
+background-color:lightblue;
+{
+h1{
+color:black; text-align:center
+font-style:times new roman;
+}
+p{
+color:red;text-align:right;font-size:30px;font-style:verdana;
+}
