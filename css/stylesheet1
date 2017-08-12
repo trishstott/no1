@@ -1,7 +1,7 @@
 
 body{
 background-color:lightblue;
-{
+}
 h3{
 color:blue; text-align:center
 font-style:times new roman;
