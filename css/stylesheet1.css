@@ -6,7 +6,7 @@ body {
 
 h3 {
     background-color: cyan;color: red;
-    text-align: center;font-family: verdana; font-style:italic;
+    text-align: center;font-family: verdana; font-style:italic;border-style:double;
 }
 
 p {
