@@ -14,5 +14,5 @@ p {
     font-size: 20px;
 }
 div{
-    background-color: linen;
+    background-color: linen;width:600px;margin:auto;border:1px solidred;
 }
