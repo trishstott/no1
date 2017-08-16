@@ -17,13 +17,13 @@ div{
     background-color: linen;width:500px;margin:auto;border:10px solidred;
 }
 a:link {
-    color: green; 
+    color: blue; 
     background-color: transparent; 
     text-decoration: none;
 }
 
 a:visited {
-    color: pink;
+    color: green;
     background-color: transparent;
     text-decoration: none;
 }
