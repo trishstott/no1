@@ -15,7 +15,7 @@ p {
 }
 .pink
 div{
-    background-color: linen;width:500px;margin:auto;border:10px solidred;
+   margin:auto;border:10px solidred;
 }
 a:link {
     color: blue; 
@@ -32,11 +32,11 @@ a:visited {
 a:hover {
     color: red;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:active {
     color: yellow;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
