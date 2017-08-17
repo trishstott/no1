@@ -13,8 +13,8 @@ p {
    text-align:center;color:orange; font-family:Times New Roman;
     font-size: 20px;
 }
-.blue {
-    background-color:blue;
+.#FAFBFC {
+    background-color:#FAFBFC;
 }
 div{
    margin:auto;border:30px solidred;
