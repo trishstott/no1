@@ -13,8 +13,8 @@ p {
    text-align:center;color:orange; font-family:Times New Roman;
     font-size: 20px;
 }
-div.pink {
-    background-color:pink;
+.blue {
+    background-color:blue;
 }
 div{
    margin:auto;border:30px solidred;
